@@ -9,7 +9,7 @@ To use the application, simply open the index.html file in your web browser. You
 If you would like to contribute to this project, feel free to submit a pull request. Please include a detailed description of your changes and any relevant documentation.
 
 # Contact
-If you have any questions or comments about this project, please feel free to contact me at [insert your contact information]. Thank you for using the To-Do List Application!
+If you have any questions or comments about this project, please feel free to contact me. Thank you for using the To-Do List Application!
 
 
 
