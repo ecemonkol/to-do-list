@@ -8,9 +8,6 @@ To use the application, simply open the index.html file in your web browser. You
 # Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Please include a detailed description of your changes and any relevant documentation.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Contact
 If you have any questions or comments about this project, please feel free to contact me at [insert your contact information]. Thank you for using the To-Do List Application!
 
